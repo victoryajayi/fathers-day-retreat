@@ -1,0 +1,34 @@
+body{
+    font-family:"Helvetica Neue",
+    Helvetica, Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    
+}
+
+#showcase{
+    background-image: url("../roadman.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    color: whitesmoke;
+    font-weight: 900;
+    font-style: italic;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    padding: 0 20px;
+
+    
+}
+#section{
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: whitesmoke;
+    font-weight: 900;
+    padding: 20px;
+    background-color: teal;
+    text-align: center;
+
+}
